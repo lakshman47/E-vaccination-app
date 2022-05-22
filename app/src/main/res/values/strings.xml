@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vaccination</string>
+    <string name="open_navigation">open navigation,</string>
+    <string name="close_navigation">close navigation</string>
+</resources>
